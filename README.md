@@ -1,6 +1,5 @@
 <img src="./header2.png" width="100%">
 <br/>
-<br/>
 
 <img src="code.gif" alt="Code GIF" align="right" width="400" height="320" style="margin-left: 10px">
 
