@@ -6,9 +6,9 @@
 
   Talking about my other hobbies, I love Working Out in Gym 🏋️, watching TV Shows and Movies 🍿 and playing Computer games 🎮.
 
-- Checkout my [Portfolio Site]("https://www.dhruvkelawala.tech") 💪.
+- Checkout my [Portfolio Site](https://www.dhruvkelawala.tech) 💪.
 
-- My [Resume]("https://dhruvkelawala.tech/assets/resume.pdf") 📄. 
+- My [Resume](https://dhruvkelawala.tech/assets/resume.pdf) 📄. 
 
 - Always Happy to help if you need any 😁. Reach me out on [Twitter](https://t.me/dhruv_k).
 
