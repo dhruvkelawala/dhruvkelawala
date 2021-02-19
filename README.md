@@ -37,87 +37,91 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 75 Contributions in the Year 2021
- > 
-> 📦 340.4 kB Used in Github's Storage 
- > 
+>
+> 📦 340.4 kB Used in Github's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 32 Public Repositories 
- > 
-> 🔑 13 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 32 Public Repositories
+>
+> 🔑 13 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning    25 commits     █████░░░░░░░░░░░░░░░░░░░░   21.01% 
-🌆 Daytime    19 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
-🌃 Evening    32 commits     ██████░░░░░░░░░░░░░░░░░░░   26.89% 
+🌞 Morning    25 commits     █████░░░░░░░░░░░░░░░░░░░░   21.01%
+🌆 Daytime    19 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.97%
+🌃 Evening    32 commits     ██████░░░░░░░░░░░░░░░░░░░   26.89%
 🌙 Night      43 commits     █████████░░░░░░░░░░░░░░░░   36.13%
 
 ```
-📅 **I'm Most Productive on Friday** 
+
+📅 **I'm Most Productive on Friday**
 
 ```text
-Monday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-Tuesday      10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.4% 
-Wednesday    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.4% 
-Thursday     25 commits     █████░░░░░░░░░░░░░░░░░░░░   21.01% 
-Friday       54 commits     ███████████░░░░░░░░░░░░░░   45.38% 
-Saturday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Monday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+Tuesday      10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.4%
+Wednesday    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.4%
+Thursday     25 commits     █████░░░░░░░░░░░░░░░░░░░░   21.01%
+Friday       54 commits     ███████████░░░░░░░░░░░░░░   45.38%
+Saturday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 Sunday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.04%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Vue.js                   4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.16% 
-Dart                     3 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   38.02% 
-JavaScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.78% 
-Go                       27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.41% 
+💬 Programming Languages:
+Vue.js                   4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.16%
+Dart                     3 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   38.02%
+JavaScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.78%
+Go                       27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.41%
 SCSS                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.52%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  10 hrs 13 mins      █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Mac                      10 hrs 13 mins      █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Dart** 
+**I Mostly Code in Dart**
 
 ```text
-Dart                     13 repos            ██████████░░░░░░░░░░░░░░░   40.62% 
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88% 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Dart                     13 repos            ██████████░░░░░░░░░░░░░░░   40.62%
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88%
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
 Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
-
+![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png)
 
 <!--END_SECTION:waka-->
+
 <br/><br/>
+
 ### 🕺 My Activity Stats
+<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvkelawala&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
+
 ### 🎵 My Spotify
-<br/><br/>
+<br/>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=unqudf9og1jewbvewx12527rw&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=unqudf9og1jewbvewx12527rw&redirect=true)
