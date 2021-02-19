@@ -6,11 +6,11 @@
 
   Talking about my other hobbies, I love Working Out in Gym 🏋️, watching TV Shows and Movies 🍿 and playing Computer games 🎮 .
 
-- Checkout my [Portfolio Site](https://www.dhruvkelawala.tech) 💪 .
+- Checkout my [Portfolio Site](https://www.dhruvkelawala.tech) and [LinkedIn](https://www.linkedin.com/in/dhruvrk2000/) 🖊️ .
 
-- My [Resume](https://dhruvkelawala.tech/assets/resume.pdf) 📄.
+- My [Resume](https://dhruvkelawala.tech/assets/resume.pdf) 📄 .
 
-- Always Happy to help if you need any 😁 . Reach me out on [Twitter](https://t.me/dhruv_k).
+- Always Happy to help if you need any 😁 . Reach me out on [Telegram](https://t.me/dhruv_k) or [Twitter](https://twitter.com/dhruv_kelawala)📱 .
 
 <br/>
 
@@ -114,14 +114,15 @@ Go                       3 repos             ██░░░░░░░░░�
 
 <br/><br/>
 
-### 🕺 My Activity Stats
+## 🕺 My Activity Stats
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvkelawala&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
 
-### 🎵 My Spotify
+## 🎵 My Spotify
 <br/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=unqudf9og1jewbvewx12527rw&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=unqudf9og1jewbvewx12527rw&redirect=true)
+
