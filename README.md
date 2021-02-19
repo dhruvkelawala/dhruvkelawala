@@ -118,6 +118,6 @@ Go                       3 repos             ██░░░░░░░░░�
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvkelawala&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
-**🎵 My Spotify**
+### 🎵 My Spotify
 <br/><br/>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=unqudf9og1jewbvewx12527rw&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=unqudf9og1jewbvewx12527rw&redirect=true)
