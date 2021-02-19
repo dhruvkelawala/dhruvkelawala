@@ -126,3 +126,6 @@ Go                       3 repos             ██░░░░░░░░░�
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=unqudf9og1jewbvewx12527rw&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=unqudf9og1jewbvewx12527rw&redirect=true)
 
+# Thank You
+
+### If you liked my profile, give it a Star ⭐ ,  🥺👉👈 .
