@@ -130,6 +130,6 @@ Go                       3 repos             ██░░░░░░░░░�
 
 # Thank You
 
-#### If you liked my profile, give it a star ⭐  | 🥺👉👈  .
+#### If you liked my profile, give it a star ⭐ , 🥺👉👈  .
 
 <br/><br/><br/>
