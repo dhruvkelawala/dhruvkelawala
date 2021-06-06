@@ -37,19 +37,19 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 320 Contributions in the Year 2021
+> 🏆 322 Contributions in the Year 2021
  > 
 > 📦 342.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 43 Public Repositories 
+> 📜 44 Public Repositories 
  > 
 > 🔑 14 Private Repositories  
  > 
@@ -80,17 +80,17 @@ Sunday       32 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   18 hrs 27 mins      █████████████████████░░░░   85.4% 
-JavaScript               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.25% 
-Python                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
-Solidity                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52% 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
+Vue.js                   16 hrs 33 mins      ██████████████████████░░░   87.59% 
+JavaScript               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.93% 
+Python                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.91% 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-VS Code                  21 hrs 36 mins      █████████████████████████   100.0%
+VS Code                  18 hrs 54 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      21 hrs 36 mins      █████████████████████████   100.0%
+Mac                      18 hrs 54 mins      █████████████████████████   100.0%
 
 ```
 
