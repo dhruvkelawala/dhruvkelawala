@@ -111,7 +111,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/06/2021
+ Last Updated on 17/06/2021
 <!--END_SECTION:waka-->
 
 <br/><br/>
