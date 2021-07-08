@@ -37,7 +37,7 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
@@ -97,11 +97,11 @@ Mac                      38 hrs 43 mins      ███████████�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     12 repos            ███████░░░░░░░░░░░░░░░░░░   27.91% 
-JavaScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   27.91% 
-HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
-Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
+Dart                     13 repos            ███████░░░░░░░░░░░░░░░░░░   29.55% 
+JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82%
 
 ```
 
@@ -111,7 +111,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/07/2021
+ Last Updated on 08/07/2021
 <!--END_SECTION:waka-->
 
 <br/><br/>
