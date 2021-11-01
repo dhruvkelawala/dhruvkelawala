@@ -37,7 +37,7 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
@@ -80,17 +80,17 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   13 hrs 36 mins      █████████████░░░░░░░░░░░░   51.7% 
-TypeScript               10 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   41.67% 
-JavaScript               1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.57% 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49% 
-SCSS                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+TypeScript               9 hrs 51 mins       ████████████░░░░░░░░░░░░░   51.48% 
+Vue.js                   8 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.65% 
+JavaScript               37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23% 
+SCSS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 🔥 Editors: 
-VS Code                  26 hrs 18 mins      █████████████████████████   100.0%
+VS Code                  19 hrs 9 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      26 hrs 18 mins      █████████████████████████   100.0%
+Mac                      19 hrs 9 mins       █████████████████████████   100.0%
 
 ```
 
@@ -111,7 +111,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/10/2021
+ Last Updated on 01/11/2021
 <!--END_SECTION:waka-->
 
 <br/><br/>
