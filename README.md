@@ -37,7 +37,7 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
@@ -80,11 +80,11 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   30.87% 
-JavaScript               1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   28.37% 
-Vue.js                   1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.69% 
-Rust                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76%
+TypeScript               1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   30.91% 
+JavaScript               1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   27.63% 
+Vue.js                   1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.73% 
+Rust                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
 
 🔥 Editors: 
 VS Code                  5 hrs 16 mins       █████████████████████████   100.0%
@@ -111,7 +111,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/11/2021
+ Last Updated on 08/11/2021
 <!--END_SECTION:waka-->
 
 <br/><br/>
