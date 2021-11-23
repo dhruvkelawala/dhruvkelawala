@@ -37,13 +37,13 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 610 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 365.1 kB Used in GitHub's Storage 
  > 
@@ -80,17 +80,17 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 30 mins       ███████████████░░░░░░░░░░   60.36% 
-Vue.js                   3 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   26.87% 
-JavaScript               1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24% 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+TypeScript               11 hrs 49 mins      ████████████████░░░░░░░░░   67.1% 
+Vue.js                   3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.51% 
+JavaScript               1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 🔥 Editors: 
-VS Code                  14 hrs 5 mins       █████████████████████████   100.0%
+VS Code                  17 hrs 36 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      14 hrs 5 mins       █████████████████████████   100.0%
+Mac                      17 hrs 36 mins      █████████████████████████   100.0%
 
 ```
 
@@ -111,7 +111,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/11/2021
+ Last Updated on 23/11/2021
 <!--END_SECTION:waka-->
 
 <br/><br/>
