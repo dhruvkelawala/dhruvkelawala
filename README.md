@@ -37,7 +37,7 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -80,17 +80,17 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               19 hrs 9 mins       ██████████████████████░░░   89.33% 
-JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   4.79% 
-Rust                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68% 
-JavaScript               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.09% 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11%
+TypeScript               19 hrs 30 mins      ██████████████████████░░░   90.8% 
+JSON                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35% 
+Rust                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67% 
+JavaScript               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08% 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
 
 🔥 Editors: 
-VS Code                  21 hrs 26 mins      █████████████████████████   100.0%
+VS Code                  21 hrs 28 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      21 hrs 26 mins      █████████████████████████   100.0%
+Mac                      21 hrs 28 mins      █████████████████████████   100.0%
 
 ```
 
@@ -111,7 +111,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/01/2022
+ Last Updated on 19/01/2022
 <!--END_SECTION:waka-->
 
 <br/><br/>
