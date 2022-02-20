@@ -37,7 +37,7 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -80,17 +80,17 @@ Sunday       44 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 12 mins      █████████████████████░░░░   87.43% 
-Other                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.6% 
-Python                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18% 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+TypeScript               12 hrs 20 mins      █████████████████████░░░░   85.81% 
+Other                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.71% 
+Python                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46% 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🔥 Editors: 
-VS Code                  16 hrs 14 mins      █████████████████████████   100.0%
+VS Code                  14 hrs 23 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      16 hrs 14 mins      █████████████████████████   100.0%
+Mac                      14 hrs 23 mins      █████████████████████████   100.0%
 
 ```
 
@@ -111,7 +111,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/02/2022 18:43:02 UTC
+ Last Updated on 20/02/2022 18:43:32 UTC
 <!--END_SECTION:waka-->
 
 <br/><br/>
