@@ -37,7 +37,7 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -45,7 +45,7 @@
 
 > 🏆 96 Contributions in the Year 2022
  > 
-> 📦 366.0 kB Used in GitHub's Storage 
+> 📦 366.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -80,17 +80,17 @@ Sunday       44 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 hrs 7 mins       █████████████████████░░░░   85.58% 
-Other                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
-Python                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
+TypeScript               15 hrs 1 min        ██████████████████████░░░   89.49% 
+Other                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.09% 
+Python                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11% 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14% 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🔥 Editors: 
-VS Code                  14 hrs 9 mins       █████████████████████████   100.0%
+VS Code                  16 hrs 47 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      14 hrs 9 mins       █████████████████████████   100.0%
+Mac                      16 hrs 47 mins      █████████████████████████   100.0%
 
 ```
 
@@ -111,7 +111,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/02/2022 18:45:30 UTC
+ Last Updated on 24/02/2022 18:46:37 UTC
 <!--END_SECTION:waka-->
 
 <br/><br/>
