@@ -37,7 +37,7 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -80,17 +80,17 @@ Sunday       37 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 8 mins        █████████████░░░░░░░░░░░░   55.29% 
-Markdown                 3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.25% 
-SCSS                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
-JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.57% 
-HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5%
+TypeScript               16 hrs 2 mins       ████████████████████░░░░░   82.88% 
+SCSS                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08% 
+HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12% 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
 
 🔥 Editors: 
-VS Code                  14 hrs 43 mins      █████████████████████████   100.0%
+VS Code                  19 hrs 21 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      14 hrs 43 mins      █████████████████████████   100.0%
+Mac                      19 hrs 21 mins      █████████████████████████   100.0%
 
 ```
 
@@ -111,7 +111,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/03/2022 18:45:07 UTC
+ Last Updated on 17/03/2022 18:47:35 UTC
 <!--END_SECTION:waka-->
 
 <br/><br/>
