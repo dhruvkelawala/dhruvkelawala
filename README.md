@@ -37,19 +37,19 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 188 Contributions in the Year 2022
+> 🏆 190 Contributions in the Year 2022
  > 
 > 📦 367.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 57 Public Repositories 
+> 📜 59 Public Repositories 
  > 
 > 🔑 16 Private Repositories  
  > 
@@ -80,17 +80,17 @@ Sunday       37 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    14 hrs 40 mins      █████████████░░░░░░░░░░░░   55.07% 
-TypeScript               9 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   34.16% 
-Python                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.49% 
-JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07% 
-SCSS                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79%
+Other                    14 hrs 40 mins      █████████████░░░░░░░░░░░░   54.1% 
+TypeScript               9 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.69% 
+Python                   1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.4% 
+JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04% 
+SCSS                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76%
 
 🔥 Editors: 
-VS Code                  26 hrs 38 mins      █████████████████████████   100.0%
+VS Code                  27 hrs 7 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      26 hrs 38 mins      █████████████████████████   100.0%
+Mac                      27 hrs 7 mins       █████████████████████████   100.0%
 
 ```
 
@@ -111,7 +111,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/04/2022 18:46:46 UTC
+ Last Updated on 03/04/2022 18:47:09 UTC
 <!--END_SECTION:waka-->
 
 <br/><br/>
