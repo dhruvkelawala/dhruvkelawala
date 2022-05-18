@@ -39,13 +39,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 214 Contributions in the Year 2022
+> 🏆 216 Contributions in the Year 2022
  > 
 > 📦 366.7 kB Used in GitHub's Storage 
  > 
@@ -82,17 +82,17 @@ Sunday       16 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 37 mins       ██████████████████░░░░░░░   72.65% 
-HTML                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.66% 
-SCSS                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.79% 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+TypeScript               2 hrs 50 mins       ████████████░░░░░░░░░░░░░   49.51% 
+HTML                     1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   28.3% 
+SCSS                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.3% 
+CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.18% 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56%
 
 🔥 Editors: 
-VS Code                  7 hrs 43 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 45 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      7 hrs 43 mins       █████████████████████████   100.0%
+Mac                      5 hrs 45 mins       █████████████████████████   100.0%
 
 ```
 
@@ -113,7 +113,7 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/05/2022 18:51:05 UTC
+ Last Updated on 18/05/2022 18:50:41 UTC
 <!--END_SECTION:waka-->
 
 <br/><br/>
