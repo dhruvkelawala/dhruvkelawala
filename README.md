@@ -37,17 +37,17 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C901%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 198 Contributions in the Year 2023
+> 🏆 199 Contributions in the Year 2023
  > 
-> 📦 367.2 kB Used in GitHub's Storage 
+> 📦 367.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -82,17 +82,17 @@ Sunday       25 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               21 hrs 41 mins      ██████████████████░░░░░░░   74.99% 
-Rust                     3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68% 
-JSON                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.53% 
-JavaScript               42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.43% 
-Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22%
+TypeScript               20 hrs 43 mins      ██████████████████░░░░░░░   75.12% 
+Rust                     4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.75% 
+JSON                     56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42% 
+JavaScript               42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54% 
+Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0%
 
 🔥 Editors: 
-VS Code                  28 hrs 55 mins      █████████████████████████   100.0%
+VS Code                  27 hrs 34 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      28 hrs 55 mins      █████████████████████████   100.0%
+Mac                      27 hrs 34 mins      █████████████████████████   100.0%
 
 ```
 
@@ -113,7 +113,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/02/2023 18:45:04 UTC
+ Last Updated on 08/02/2023 18:46:52 UTC
 <!--END_SECTION:waka-->
 
 <br/><br/>
