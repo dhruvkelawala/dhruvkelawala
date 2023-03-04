@@ -37,7 +37,7 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C954%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C958%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,13 +45,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 335 Contributions in the Year 2023
+> 🏆 337 Contributions in the Year 2023
  > 
 > 📦 367.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 67 Public Repositories 
+> 📜 68 Public Repositories 
  > 
 > 🔑 16 Private Repositories  
  > 
@@ -82,17 +82,17 @@ Sunday       25 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               15 hrs 45 mins      ████████████████████████░   96.1% 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51% 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+TypeScript               15 hrs 34 mins      ████████████████████░░░░░   81.85% 
+YAML                     2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4% 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04% 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
 
 🔥 Editors: 
-VS Code                  16 hrs 23 mins      █████████████████████████   100.0%
+VS Code                  19 hrs 1 min        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      16 hrs 23 mins      █████████████████████████   100.0%
+Mac                      19 hrs 1 min        █████████████████████████   100.0%
 
 ```
 
@@ -113,7 +113,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/03/2023 18:43:52 UTC
+ Last Updated on 04/03/2023 18:38:46 UTC
 <!--END_SECTION:waka-->
 
 <br/><br/>
