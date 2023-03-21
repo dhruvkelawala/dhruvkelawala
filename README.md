@@ -37,7 +37,7 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C017%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C018%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -45,7 +45,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 499 Contributions in the Year 2023
+> 🏆 502 Contributions in the Year 2023
  > 
 > 📦 367.4 kB Used in GitHub's Storage 
  > 
@@ -82,11 +82,11 @@ Sunday       25 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               24 hrs 43 mins      ███████████████████████░░   91.57% 
+TypeScript               25 hrs 3 mins       ███████████████████████░░   92.8% 
 Rust                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.66% 
-JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97% 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66% 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93% 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61% 
+TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 
 🔥 Editors: 
 VS Code                  26 hrs 59 mins      █████████████████████████   100.0%
@@ -113,7 +113,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/03/2023 18:42:27 UTC
+ Last Updated on 21/03/2023 18:41:15 UTC
 <!--END_SECTION:waka-->
 
 <br/><br/>
