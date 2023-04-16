@@ -37,7 +37,7 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C126%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C128%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,7 +47,7 @@
 
 > 🏆 650 Contributions in the Year 2023
  > 
-> 📦 367.4 kB Used in GitHub's Storage 
+> 📦 367.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -82,15 +82,17 @@ Sunday       25 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 hrs 53 mins      ████████████████████████░   97.83% 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
+TypeScript               13 hrs 53 mins      █████████████████████░░░░   84.05% 
+Rust                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
+Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
+TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46% 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
 
 🔥 Editors: 
-VS Code                  14 hrs 12 mins      █████████████████████████   100.0%
+VS Code                  16 hrs 32 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      14 hrs 12 mins      █████████████████████████   100.0%
+Mac                      16 hrs 32 mins      █████████████████████████   100.0%
 
 ```
 
@@ -111,7 +113,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/04/2023 18:39:49 UTC
+ Last Updated on 16/04/2023 18:37:43 UTC
 <!--END_SECTION:waka-->
 
 <br/><br/>
