@@ -37,9 +37,9 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C161%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C163%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -82,17 +82,17 @@ Sunday       46 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 34 mins      █████████████████████░░░░   87.49% 
-Bash                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.51% 
+TypeScript               13 hrs 59 mins      █████████████████████░░░░   84.31% 
+Bash                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
+Rust                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
 YAML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16% 
-JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87% 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86%
+JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88%
 
 🔥 Editors: 
-VS Code                  16 hrs 38 mins      █████████████████████████   100.0%
+VS Code                  16 hrs 35 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      16 hrs 38 mins      █████████████████████████   100.0%
+Mac                      16 hrs 35 mins      █████████████████████████   100.0%
 
 ```
 
@@ -113,7 +113,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/04/2023 18:37:46 UTC
+ Last Updated on 30/04/2023 18:39:36 UTC
 <!--END_SECTION:waka-->
 
 <br/><br/>
