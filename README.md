@@ -37,7 +37,7 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C388%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C397%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -45,7 +45,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,520 Contributions in the Year 2023
+> 🏆 1,522 Contributions in the Year 2023
  > 
 > 📦 367.5 kB Used in GitHub's Storage 
  > 
@@ -82,17 +82,17 @@ Sunday       30 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               21 hrs              ██████████████████████░░░   88.85% 
-Rust                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.15% 
-JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.11% 
-Bash                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46% 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+TypeScript               23 hrs 10 mins      ██████████████████████░░░   89.19% 
+Rust                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.77% 
+JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.72% 
+Bash                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.2% 
+TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 🔥 Editors: 
-VS Code                  23 hrs 38 mins      █████████████████████████   100.0%
+VS Code                  25 hrs 58 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      23 hrs 38 mins      █████████████████████████   100.0%
+Mac                      25 hrs 58 mins      █████████████████████████   100.0%
 
 ```
 
@@ -113,7 +113,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/08/2023 18:39:27 UTC
+ Last Updated on 09/08/2023 18:41:53 UTC
 <!--END_SECTION:waka-->
 
 <br/><br/>
