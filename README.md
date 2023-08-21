@@ -37,9 +37,9 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C439%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C440%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -82,17 +82,17 @@ Sunday       30 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               21 hrs 59 mins      ███████████████████░░░░░░   79.29% 
-Rust                     5 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.56% 
-Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09% 
+TypeScript               21 hrs 59 mins      ████████████████████░░░░░   80.4% 
+Rust                     4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.42% 
+Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11% 
 JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
 XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
 🔥 Editors: 
-VS Code                  27 hrs 44 mins      █████████████████████████   100.0%
+VS Code                  27 hrs 21 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      27 hrs 44 mins      █████████████████████████   100.0%
+Mac                      27 hrs 21 mins      █████████████████████████   100.0%
 
 ```
 
@@ -113,7 +113,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/08/2023 18:39:19 UTC
+ Last Updated on 21/08/2023 18:39:33 UTC
 <!--END_SECTION:waka-->
 
 <br/><br/>
