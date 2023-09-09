@@ -37,7 +37,7 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C475%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C481%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -82,16 +82,16 @@ Sunday       30 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               18 hrs 26 mins      █████████████████████████   99.73% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
+TypeScript               19 hrs 37 mins      ████████████████████████░   98.72% 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16% 
 Ezhil                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  18 hrs 29 mins      █████████████████████████   100.0%
+VS Code                  19 hrs 53 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      18 hrs 29 mins      █████████████████████████   100.0%
+Mac                      19 hrs 53 mins      █████████████████████████   100.0%
 
 ```
 
@@ -112,7 +112,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dhruvkelawala/dhruvkelawala/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/09/2023 18:40:30 UTC
+ Last Updated on 09/09/2023 18:38:24 UTC
 <!--END_SECTION:waka-->
 
 <br/><br/>
