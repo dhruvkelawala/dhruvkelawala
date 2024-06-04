@@ -6,20 +6,16 @@
 
 <p align="left">Hello, I am Dhruv, a software engineer working for a better tomorrow. I believe that no amount of time is enough to write good software. Life goes on and so does software development.</p>
 
-- [Portfolio Site](https://www.dhruvkelawala.com) 
+[Portfolio](https://www.dhruvkelawala.com) 
   
--  [LinkedIn](https://www.linkedin.com/in/dhruvrk2000/) 🖊️ .
+[LinkedIn](https://www.linkedin.com/in/dhruvrk2000/) 🖊️ .
 
-- [Resume](https://dhruvkelawala.tech/assets/resume.pdf) 📄 .
+Always Happy to help if you need any 😁 . Reach me out on [Telegram](https://t.me/dhruv_k) or [Twitter](https://twitter.com/dhruv_kelawala)📱 .
 
-- Always Happy to help if you need any 😁 . Reach me out on [Telegram](https://t.me/dhruv_k) or [Twitter](https://twitter.com/dhruv_kelawala)📱 .
-
-
-###
 
 <br/>
 
-**Languages, Frameworks and Tools:**<br/><br/>
+**Languages, Frameworks and Tools:**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
