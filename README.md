@@ -1,6 +1,6 @@
 ## 👋 Dhruv Kelawala
 
-I build tools that bridge gaps — between users and blockchains, agents and APIs, ideas and shipped code.
+I build tools that bridge gaps between users and blockchains, agents and APIs, ideas and shipped code.
 
 Senior Frontend Engineer at Ready (London 🇬🇧). Spent years at Argent making self-custody accessible to millions.
 
@@ -23,8 +23,6 @@ Senior Frontend Engineer at Ready (London 🇬🇧). Spent years at Argent makin
 | [**cairo-base64**](https://github.com/dhruvkelawala/cairo-base64) | Base64 encoding for Cairo contracts | Cairo |
 | [**gousto-agent-skill**](https://github.com/dhruvkelawala/gousto-agent-skill) | AI agent skill for 9,000+ recipe search | Shell |
 | [**argent-ledger-poc**](https://github.com/dhruvkelawala/argent-ledger-poc) | Ledger hardware signing for Starknet | TypeScript |
-
-**web3-starknet-react** powers [JediSwap](https://app.testnet.jediswap.xyz) and other Starknet dApps.
 
 ---
 
