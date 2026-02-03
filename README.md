@@ -18,6 +18,7 @@ Senior Frontend Engineer at Ready (London 🇬🇧). Spent years at Argent makin
 
 | Project | What it does | Tech |
 |---------|--------------|------|
+| [**Argent X / Ready Wallet**](https://github.com/argentlabs/argent-x) | Starknet wallet extension (now Ready Wallet) | TypeScript |
 | [**web3-starknet-react**](https://github.com/dhruvkelawala/web3-starknet-react) | React hooks & wallet connectors for Starknet dApps | TypeScript |
 | [**cairo-base64**](https://github.com/dhruvkelawala/cairo-base64) | Base64 encoding for Cairo contracts | Cairo |
 | [**gousto-agent-skill**](https://github.com/dhruvkelawala/gousto-agent-skill) | AI agent skill for 9,000+ recipe search | Shell |
