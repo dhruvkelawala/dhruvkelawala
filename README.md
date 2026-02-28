@@ -4,6 +4,8 @@ I build tools that bridge gaps between users and blockchains, agents and APIs, i
 
 Senior Frontend Engineer at Ready (London 🇬🇧). Spent years at Argent making self-custody accessible to millions.
 
+🌐 **[dhruvkelawala.com](https://dhruvkelawala.com)** — My personal site
+
 ---
 
 ## 🚧 Now
@@ -39,7 +41,7 @@ Senior Frontend Engineer at Ready (London 🇬🇧). Spent years at Argent makin
 <p>
   <a href="https://x.com/dhruv_kelawala">X / Twitter</a> •
   <a href="https://www.linkedin.com/in/dhruvrk2000/">LinkedIn</a> •
-  <a href="http://dhruvkelawala.com">Website</a>
+  <a href="https://dhruvkelawala.com">Website</a>
 </p>
 
 ---
