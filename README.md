@@ -18,7 +18,7 @@ Senior Frontend Engineer at Ready (London 🇬🇧). Spent years at Argent makin
 
 | Project | What it does | Tech |
 |---------|--------------|------|
-| [**Argent X / Ready Wallet**](https://github.com/argentlabs/argent-x) | Starknet wallet extension (now Ready Wallet) | TypeScript |
+| [**ArgentX / ReadyX**](https://github.com/argentlabs/argent-x) | ArgentX wallet extension for Starknet (now ReadyX) | TypeScript |
 | [**hevy-cli**](https://github.com/dhruvkelawala/hevy-cli) | Terminal CLI + agent skill for the Hevy workout tracker API | Go |
 | [**web3-starknet-react**](https://github.com/dhruvkelawala/web3-starknet-react) | React hooks & wallet connectors for Starknet dApps | TypeScript |
 | [**cairo-base64**](https://github.com/dhruvkelawala/cairo-base64) | Base64 encoding for Cairo contracts | Cairo |
